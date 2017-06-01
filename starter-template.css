@@ -5,6 +5,13 @@ body {
   background-position: center top;
   background-size: cover 
 }
+
+img.glow{
+float: top-left;
+width: 100px;
+height: 1000px;
+}
+
 .starter-template {
   padding: 40px 15px;
   text-align: center;
