@@ -8,15 +8,20 @@ body {
 
 
 img.glow{
-float: left;
-margin-left: 10px;
+position: absolute;
+top: 8px;
+left: 16px;
+height:900px; 
+width: 200px;
 }
 
 img.glowcopy{
-float: right;
-margin-right: 10px; 
+position:absolute;
+top: 8px;
+right: 16px;
+height:900px; 
+width: 200px;
 }
-
 
 
 .starter-template {
