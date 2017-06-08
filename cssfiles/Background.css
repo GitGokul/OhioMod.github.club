@@ -5,6 +5,41 @@ body {
   background-position: center top;
   background-size: cover 
 }
+img.saber{
+position: absolute; 
+top: 52px;
+left: 150px;
+height:150px; 
+width: 200px;
+}
+
+img.sabercopy{
+position: absolute; 
+top: 52px;
+left: 150px;
+height:150px; 
+width: 200px;
+}
+
+
+img.sabercopy2{
+position: absolute; 
+top: 52px;
+left: 1000px;
+height:150px; 
+width: 200px;
+}
+
+img.sabercopy3{
+position: absolute; 
+top: 52px;
+left: 1000px;
+height:150px; 
+width: 200px;
+}
+
+
+
 .starter-template {
   padding: 40px 15px;
   text-align: center;
