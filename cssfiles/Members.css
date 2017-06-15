@@ -257,3 +257,28 @@ border: white 2px solid;
 font-family: Lucida, Monospace;" 
 }
 
+img.Jenny1{
+border-color: 	#FF0000;
+box-shadow: 0 0 100px 	#FF0000;
+position: absolute;
+top: 2000px;
+left: 800px;
+}
+
+.Jenny{
+padding: 15px 15px;
+font-size:15px;
+text-position: left;
+text-align: center;
+position: absolute;
+width: 200px; 
+height: 250px;
+top: 2000px;
+left: 1000px;
+color: white; 
+background-color: black; 
+border: white 2px solid;  
+font-family: Lucida, Monospace;" 
+}
+
+
