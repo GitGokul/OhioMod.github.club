@@ -9,3 +9,40 @@ body {
   padding: 40px 15px;
   text-align: center;
 }
+.group{
+padding: 10px 10px;
+font-size:15px;
+text-position: left;
+text-align: center;
+position: relative;
+width: 200px; 
+height: 275px;
+top: 25px;
+left: -400px;
+color: white; 
+background-color: black; 
+border: white 2px solid;  
+font-family: Lucida, Monospace;" 
+list-style:outside none none;
+}
+
+.undergrads{
+padding: 10px 10px;
+font-size:15px;
+text-position: left;
+text-align: center;
+position: relative;
+width: 200px; 
+height: 275px;
+top: -300px;
+left: 300px;
+color: white; 
+background-color: black; 
+border: white 2px solid;  
+font-family: Lucida, Monospace;" 
+list-style:outside none none;
+}
+
+ul.list{
+list-style-type:none;
+}
