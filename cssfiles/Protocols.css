@@ -10,6 +10,43 @@ body {
   text-align: center;
 }
 
+.Nick{
+padding: 15px 15px;
+font-size:17px;
+text-position: left;
+text-align: left;
+margin: 0px auto;
+width: 900px; 
+height: 950px;
+top: 40px;
+left: 400px;
+color: white; 
+background-color: black; 
+border: white 2px solid;  
+font-family: Lucida, Monospace;" 
+}
+
+ul.proto{
+   position:fixed;
+   left: 0px;
+   padding: 15px 15px;
+   font-size:15px;
+   text-position: left;
+   text-align: center;
+   width: 200px; 
+   height: 130px;
+   color: white; 
+   background-color: black; 
+   border-color: #59E817;
+   box-shadow: 0 0 30px #59E817;  
+   font-family: Lucida, Monospace;" 
+}
+
+a.link:hover{
+	background-color:#000080;
+	text-decoration: none;
+}
+
 .footer{
   margin-top:2cm;
   background-color:black; 
