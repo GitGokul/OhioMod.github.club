@@ -1,0 +1,71 @@
+body {
+  padding-top: 50px;
+  background-image: url("../Pictures/StarsSpaceBackground.jpg");
+  background-repeat: no-repeat;
+  background-position: center top;
+  background-size: cover 
+}
+.starter-template {
+  padding: 40px 15px;
+  text-align: center;
+}
+
+ul.gel{
+list-style-type: number;
+}
+
+.Protocol{
+padding: 15px 15px;
+font-size:17px;
+text-position: left;
+text-align: left;
+margin: 0px auto;
+width: 900px; 
+height: 750px;
+top: 40px;
+left: 400px;
+color: white; 
+background-color: black; 
+border: white 2px solid;  
+font-family: Lucida, Monospace;" 
+}
+
+ul.proto{
+   position:fixed;
+   left: 0px;
+   padding: 15px 15px;
+   font-size:15px;
+   text-position: left;
+   text-align: center;
+   width: 200px; 
+   height: 130px;
+   color: white; 
+   background-color: black; 
+   border-color: #59E817;
+   box-shadow: 0 0 30px #59E817;  
+   font-family: Lucida, Monospace;" 
+}
+
+a.link:hover{
+	background-color:#000080;
+	text-decoration: none;
+}
+
+
+
+.footer{
+  margin-top:2cm;
+  background-color:black; 
+  margin-bottom:-1cm; 
+  padding-bottom:-1px;
+  line-height:2em;
+  text-position:center;  
+  position:relative; 
+  font-color: white;
+  margin-left:-20cm;; 
+  margin-right:-6cm; 
+  text-align:center;
+  font-family:'Press Start 2P', cursive; font-size:80%;
+  line-height:4em; 
+  word-spacing:5cm;
+}
