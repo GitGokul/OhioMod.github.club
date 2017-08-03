@@ -4,7 +4,7 @@ body {
   background-image: url("../Pictures/StarsSpaceBackground.jpg");
   background-repeat: repeat;
   background-position: center top;
-  background-size: 90% 90vh; 
+  background-size: contain; 
 }
 
 .starter-template { 
