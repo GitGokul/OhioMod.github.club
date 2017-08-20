@@ -1,0 +1,5 @@
+@font-face { font-family: StarJedi; src: url('./cssfiles/star-jedi/Starjhol.ttf'); } 
+.starwarsfont {
+    font-family: StarJedi;
+    color: gold !important;
+}  
