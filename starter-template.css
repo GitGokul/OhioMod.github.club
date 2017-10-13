@@ -7,20 +7,25 @@ body {
 }
 
 
-img.glow{
-position: absolute; 
-top: -100px;
-left: -5px;
-height:1500px; 
-width: 100px;
+img.group{
+    border-color: #FFD700;
+    box-shadow: 0 0 100px #FFD700;    
 }
 
-img.glowcopy{
-position:absolute; 
-top: -100px;
-right: 0px;
-height:1500px; 
-width: 100px;
+img.DNA{
+    position:absolute;
+    width: 200px;
+    height:1400px;
+    left:1150px;
+    top: 0px;
+}
+
+img.DNA2{
+    position:absolute;
+    width: 200px;
+    height:1400px;
+    left:10px;
+    top: 0px;
 }
 
 .starter-template {
