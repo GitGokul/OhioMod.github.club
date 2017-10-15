@@ -4,34 +4,58 @@ body {
   background-image: url("../Pictures/StarsSpaceBackground.jpg");
   background-repeat: repeat;
   background-position: center top;
-  background-size: contain;	
+  background-size: 80% 80vh;	
+}
+
+.table{
+margin-right:60px;
+margin-left:60px;
+border:5px solid transparent;
+border-collapse:seperate;
 }
 
 
-img.mentors{
-position: relative;
-top: -2650px;
-left:475px;
+.table1{
+margin-right:60px;
+margin-left:60px;
+border:5px solid transparent;
+border-collapse:seperate;
 }
+
+.tr1{
+border: 5px solid transparent;
+}
+
+.tr2{
+border: 5px solid transparent;
+}
+
+.tr3{
+border: 5px solid transparent;
+}
+
+.tr4{
+border: 5px solid transparent;
+}
+
+.tr5{
+border: 8px solid transparent; 
+}
+
+
 
 img.Nick1{
 border-color: #59E817;
 box-shadow: 0 0 100px #59E817;
-position: relative; 
-top: 50px;
-left: 100px;
 }
 
 .Nick{
 padding: 15px 15px;
-font-size:15px;
+font-size:18px;
 text-position: left;
-text-align: center;
-position: relative;
-width: 200px; 
+text-align: left;
+width: 250px; 
 height: 250px;
-top: -200px;
-left: 300px;
 color: white; 
 background-color: black; 
 border: white 2px solid;  
@@ -42,21 +66,15 @@ font-family: Lucida, Monospace;"
 img.Jon1{
 border-color: #5CB3FF;
 box-shadow: 0 0 100px #5CB3FF;
-position: relative; 
-top: -447px;
-left: 700px;
 }
 
 .Jon{
 padding: 15px 15px;
-font-size:15px;
+font-size:18px;
 text-position: left;
-text-align: center;
-position: relative;
-width: 200px; 
+text-align: left;
+width: 250px; 
 height: 250px;
-top: -700px;
-left: 900px;
 color: white; 
 background-color: black; 
 border: white 2px solid;  
@@ -66,21 +84,15 @@ font-family: Lucida, Monospace;"
 img.sedona1{
 border-color: #59E817;
 box-shadow: 0 0 100px #59E817;
-position: relative; 
-top: -605px;
-left: 105px;
 }
 
 .sedona{
 padding: 15px 15px;
-font-size:15px;
+font-size:18px;
 text-position: left;
-text-align: center;
-position: relative;
-width: 200px; 
+text-align: left;
+width: 250px; 
 height: 250px;
-top: -855px;
-left: 305px;
 color: white; 
 background-color: black; 
 border: white 2px solid;  
@@ -90,21 +102,15 @@ font-family: Lucida, Monospace;"
 img.caitlyn1{
 border-color: #5CB3FF;
 box-shadow: 0 0 100px #5CB3FF;
-position: relative; 
-top: -1105px;
-left: 705px;
 }
 
 .caitlyn{
 padding: 15px 15px;
-font-size:15px;
+font-size:18px;
 text-position: left;
-text-align: center;
-position: relative;
-width: 200px; 
+text-align: left;
+width: 250px; 
 height: 250px;
-top: -1355px;
-left: 905px;
 color: white; 
 background-color: black; 
 border: white 2px solid;  
@@ -114,21 +120,15 @@ font-family: Lucida, Monospace;"
 img.Gokul1{
 border-color: #5CB3FF;
 box-shadow: 0 0 100px #5CB3FF;
-position: relative; 
-top: -1760px;
-left: 705px;
 }
 
 .Gokul{
 padding: 15px 15px;
-font-size:15px;
+font-size:18px;
 text-position: left;
-text-align: center;
-position: relative;
-width: 200px; 
+text-align: left;
+width: 250px; 
 height: 250px;
-top: -2010px;
-left: 905px;
 color: white; 
 background-color: black; 
 border: white 2px solid;  
@@ -138,21 +138,15 @@ font-family: Lucida, Monospace;"
 img.George1{
 border-color:  #59E817;
 box-shadow: 0 0 100px  #59E817;
-position: relative; 
-top: -1260px;
-left: 105px;
 }
 
 .George{
 padding: 15px 15px;
-font-size:15px;
+font-size:18px;
 text-position: left;
-text-align: center;
-position: relative;
-width: 200px; 
+text-align: left;
+width: 250px; 
 height: 250px;
-top: -1510px;
-left: 305px;
 color: white; 
 background-color: black; 
 border: white 2px solid;  
@@ -164,21 +158,15 @@ font-family: Lucida, Monospace;"
 img.Audrey1{
 border-color: #59E817;
 box-shadow: 0 0 100px #59E817;
-position: relative; 
-top: -1915px;
-left: 105px;
 }
 
 .Audrey{
 padding: 15px 15px;
-font-size:15px;
+font-size:18px;
 text-position: left;
-text-align: center;
-position: relative;
-width: 200px; 
+text-align: left;
+width: 250px; 
 height: 250px;
-top: -2165px;
-left: 305px;
 color: white; 
 background-color: black; 
 border: white 2px solid;  
@@ -188,45 +176,38 @@ font-family: Lucida, Monospace;"
 img.Ryan1{
 border-color: #5CB3FF;
 box-shadow: 0 0 100px #5CB3FF;
-position: relative; 
-top: -2415px;
-left: 705px;
 }
 
 .Ryan{
 padding: 15px 15px;
-font-size:15px;
+font-size:18px;
 text-position: left;
-text-align: center;
-position: relative;
-width: 200px; 
+text-align: left;
+width: 250px; 
 height: 250px;
-top: -2665px;
-left: 905px;
 color: white; 
 background-color: black; 
 border: white 2px solid;  
 font-family: Lucida, Monospace;" 
 }
 
+.tablementor{
+border:5px solid transparent;
+border-collapse:seperate;
+}
+
 img.Castro1{
 border-color: 	#FF0000;
 box-shadow: 0 0 100px 	#FF0000;
-position: relative;
-top: -2050px;
-left: 150px;
 }
 
 .Castro{
 padding: 15px 15px;
-font-size:15px;
+font-size:18px;
 text-position: left;
 text-align: center;
-position: relative;
-width: 200px; 
+width: 250px; 
 height: 250px;
-top: -2300px;
-left: 620px;
 color: white; 
 background-color: black; 
 border: white 2px solid;  
@@ -237,21 +218,15 @@ font-family: Lucida, Monospace;"
 img.Josh1{
 border-color: 	#FF0000;
 box-shadow: 0 0 100px 	#FF0000;
-position: relative;
-top: -2890px;
-left: 107px;
 }
 
 .Josh{
 padding: 15px 15px;
-font-size:15px;
+font-size:18px;
 text-position: left;
 text-align: center;
-position: relative;
-width: 200px; 
+width: 250px; 
 height: 250px;
-top: -3140px;
-left: 307px;
 color: white; 
 background-color: black; 
 border: white 2px solid;  
@@ -262,21 +237,15 @@ font-family: Lucida, Monospace;"
 img.Jenny1{
 border-color: 	#FF0000;
 box-shadow: 0 0 100px 	#FF0000;
-position: relative;
-top: -3390px;
-left: 707px;
 }
 
 .Jenny{
 padding: 15px 15px;
-font-size:15px;
+font-size:18px;
 text-position: left;
 text-align: center;
-position: relative;
-width: 200px; 
+width: 250px; 
 height: 250px;
-top: -3642px;
-left: 907px;
 color: white; 
 background-color: black; 
 border: white 2px solid;  
@@ -288,15 +257,14 @@ font-family: Lucida, Monospace;"
   background-color:black; 
   margin-bottom:-1cm; 
   padding-bottom:-1px;
-  line-height:3em;  
+  line-height:2em;  
   position:relative; 
-  font-color: #FFFFFF;
-  margin-left:-20cm;; 
-  margin-right:-20cm; 
+  font-color: white;
+  margin-left:-3cm;; 
+  margin-right:-3cm; 
   text-align:center;
   font-family:'Press Start 2P', cursive; font-size:80%;
   line-height:4em; 
   word-spacing:5cm;
 }
-
 
