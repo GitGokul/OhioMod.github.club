@@ -4,21 +4,30 @@ body {
   background-image: url("../Pictures/StarsSpaceBackground.jpg");
   background-repeat: repeat;
   background-position: center top;
-  background-size: contain; 
+  background-size: 90% 90vh; 
 }
-.starter-template {
-  padding: 40px 15px;
-  text-align: center;
+
+.starter-template { 
+color: white; 
+background-color: black; 
+border: white 2px solid;
+padding: 10px 15px;
+font-family: Lucida, Monospace;
 }
+
+.sup{
+    font-size: 13px;
+}
+
 
 .footer{
   margin-top:2cm;
   background-color:black; 
   margin-bottom:-1cm; 
   padding-bottom:-1px;
-  line-height:3em;  
+  line-height:2em;  
   position:relative; 
-  font-color: #FFFFFF;
+  font-color: white;
   margin-left:-20cm;; 
   margin-right:-20cm; 
   text-align:center;
