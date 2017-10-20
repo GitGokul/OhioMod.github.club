@@ -4,7 +4,7 @@ body {
   background-image: url("../Pictures/StarsSpaceBackground.jpg");
   background-repeat: repeat;
   background-position: center top;
-  background-size: contain; 
+  background-size: 80% 80vh;  
 }
 .starter-template {
   padding: 40px 15px;
@@ -25,4 +25,20 @@ body {
   font-family:'Press Start 2P', cursive; font-size:80%;
   line-height:4em; 
   word-spacing:5cm;
+}
+
+.Nick{
+padding: 15px 15px;
+font-size:17px;
+text-position: left;
+text-align: left;
+margin: 0px auto;
+width: 900px; 
+height: 1500px;
+top: 40px;
+left: 400px;
+color: white; 
+background-color: black; 
+border: white 2px solid;  
+font-family: Lucida, Monospace;" 
 }
