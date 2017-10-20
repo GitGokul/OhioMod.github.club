@@ -36,7 +36,7 @@ ul.proto{
    left: 0px;
    padding: 15px 15px;
    font-size:15px;
-   text-position: left;
+   font-position: left;
    text-align: center;
    width: 200px; 
    height: 130px;
@@ -53,18 +53,16 @@ a.link:hover{
 }
 
 
-
 .footer{
   margin-top:2cm;
   background-color:black; 
   margin-bottom:-1cm; 
-  padding-bottom:-1px;
-  line-height:2em;
-  text-position:center;  
+  padding-bottom:0px;
+  line-height:3em;  
   position:relative; 
-  font-color: white;
+  font-color: #FFFFFF;
   margin-left:-20cm;; 
-  margin-right:-6cm; 
+  margin-right:-20cm; 
   text-align:center;
   font-family:'Courier New'; font-size:80%;
   line-height:4em; 
