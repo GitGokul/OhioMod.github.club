@@ -71,7 +71,42 @@
 
     <div class="container">
 
-      <div class="Nick"> <p> Design go here </p>
+      <div class="Nick"> <p> Using our previous stability results and the Base-Pair Binding Ratio (BBR) results we designed a new structure in caDNAno. We determined that structures with square lattices had more stability in varying concentrations of MgCl2 and FBS than honeycomb lattices, and structures with greater surface area retained daunorubicin more efficiently. We also concluded that adding overhangs also increases the daunorubicin retention. We created a physiologically stable and efficient structure design using caDNAno that potentially maximizes drug retention. We chose the Horse structure as the basis of our new structure design because of its stability in MgCl2 and FBS at 37oC. For the new structure, we decided to add a continuous twist to the Horse caDNAno file. Twisted structures were proven to have increased efficiency in loading, retaining, and releasing the chemotherapy drug doxorubicin in a study at Karolinska Institute; these experiments demonstrated that quantitative manipulation of twisting and bending structures affects stability and doxorubicin concentration.[1] Manipulating the Horse structure by twisting it may increase the amount of drug retained and increase BBR. Square lattice structures, such as the Horse, have a natural twist, and deletions are utilized to straighten out the structure. To increase the structure’s natural twist, insertions are added. An insertion was placed every two tokens in each helix of the Horse structure’s caDNAno file; adding insertions caused tighter, right-handed twisting.[2] A token in a square lattice represents eight base-pairs. Potential twisted designs were also made by adding insertions in varying patterns. The addition of base pair insertions for every one token caused too much twisting and bent the structure. After further testing, it was determined that insertions every two tokens provided an optimal level of twist, and this structure was name the Twisted Horse. Figure E1, below, shows the caDNAno staple routing for the Twisted Horse design. Figure E2 demonstrates the CanDo results of the Twisted Horse structure. </p>
+
+      <br>
+
+      <center><img src= "./Pictures/caDNAno.png" alt="caDNAno"  height="242" width="425"></center>
+      <center><p>Figure E1: Outline of caDNAno file for Twisted Horse, indicating staple routing and cross section.</p></center>
+
+      <br>
+
+      <center><img src= "./Pictures/twistedHorse.png" alt="twisted DNA"  height="317" width="364"> </center>
+      <center><p>Figure E2: CanDo results of Twisted Horse design, showing areas of stress due to the twisting. A.  Front view of the twisted horse structure. B. Top view of the Twisted Horse structure. C. Side view of the Twisted Horse Structure.</center>
+
+     <br>
+     
+
+In the future, we plan to implement MgCl2 and FBS experiments with the Twisted Horse similar the experiments completed for our structure panel. The new, twisted square lattice could disturb the efficient stability of the Trojan Horse, and this would be quantified with stability experiments. We also plan on varying the relative structure and daunorubicin concentrations to maximize the BBR. In the future, we plan to add overhangs to the caDNAno file for the Twisted Horse because based on our results, added overhangs in the Branch and LPP structures led to higher BBR. LPP had and average BBR of  1.018 at 15 nM structure concentration, a greater value compared to those of the other structures on the panel (<.75), and we attribute this high BBR to the 22 overhangs on the bottom of the platform. Once the Twisted Horse structure is finalized we plan to expand our stability tests to test retention of the daunorubicin overtime. Knowing more about the timed retention of the daunorubicin in the structure is vital information if we plan to do in vivo experiments. We also plan to implement MgCl2 and FBS stability experiments with the Twisted Horse pre-loaded with daunorubicin. This would give us valuable data on the physiological stability of the loaded structure. The next step would be to load the Twisted Horse structures loaded with daunorubicin into cells to test the cell viability. Finally, the ultimate future goal is to expand this into in vivo studies with humans. If loaded with daunorubicin, the Twisted Horse has the potential to decrease cancer cell viability which and increase efficacy in cancer treatments. 
+ <br>
+ 
+<br>
+
+References:
+<ul>
+
+<li>[1] Zhao, Y., Shaq, A., Zeng, X., Benson, E., Nystrom, A.M., Hogberg, B., 2012, ACS Nano, 6(10), 8685.</li>
+
+<li>[2] Dietz, H., Douglas, S. M., Shih, W. M., 2009, Science, 325(5941), 725–730.</li>
+</ul>
+
+
+
+   </p>
+
+
+
+      <br>
+
       </div>
 
     </div>
