@@ -11,7 +11,7 @@ body {
 .starter-template{
 color: white; 
 background-color: black; 
-border: white 2px solid;
+border: cyan 2px solid;
 padding: 10px 15px;
 font-family: Lucida, Monospace;
 }
