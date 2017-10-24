@@ -9,6 +9,7 @@ body {
 .starter-template {
   padding: 40px 15px;
   text-align: center;
+  border: cyan 2px solid;
 }
 
 .footer{
