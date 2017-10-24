@@ -27,11 +27,10 @@ font-family: Lucida, Monospace;
   padding-bottom:-1px;
   line-height:2em;  
   position:relative; 
-  margin-left:-20cm;; 
-  margin-right:-20cm; 
+  margin-left:-2.85cm;; 
+  margin-right:-2.85cm; 
   text-align:center;
-  font-family:'Courier New';font-size:80%;
-  color:'gold';
+  font-family:'Press Start 2P', cursive; font-size:80%;
   line-height:4em; 
   word-spacing:5cm;
 }
