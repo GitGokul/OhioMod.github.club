@@ -9,7 +9,6 @@ body {
 .starter-template {
   padding: 40px 15px;
   text-align: center;
-  border: cyan 2px solid;
 }
 
 .footer{
@@ -31,7 +30,7 @@ body {
 .starter-template { 
 color: white; 
 background-color: black; 
-border: cyan 2px solid
+border: cyan 2px solid;
 text-align: left;
 padding: 10px 15px;
 font-family: Lucida, Monospace; font-size: 14px;
