@@ -1,1 +1,37 @@
 
+body {
+  position: relative;
+  padding-top: 50px;
+  background-image: url("../Pictures/StarsSpaceBackground.jpg");
+  background-repeat: repeat;
+  background-position: center top;
+  background-size: 80% 80vh;  
+}
+.starter-template {
+  padding: 40px 15px;
+  text-align: center;
+}
+
+.footer{
+  margin-top:2cm;
+  background-color:black; 
+  margin-bottom:-1cm; 
+  padding-bottom:-1px;
+  line-height:3em;  
+  position:relative; 
+  margin-left:-2cm;; 
+  margin-right:-2cm; 
+  text-align:center;
+  font-family:'Courier New';font-size:80%;
+  line-height:4em; 
+  word-spacing:5cm;
+}
+
+.starter-template { 
+color: white; 
+background-color: black; 
+border: cyan 2px solid;
+text-align: left;
+padding: 10px 15px;
+font-family: Lucida, Monospace; font-size: 14px;
+}
