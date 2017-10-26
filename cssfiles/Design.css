@@ -15,12 +15,12 @@ body {
   margin-top:2cm;
   background-color:black; 
   margin-bottom:-1cm; 
-  padding-bottom:-1px;
+  padding-bottom:0px;
   line-height:3em;  
   position:relative; 
   font-color: #FFFFFF;
-  margin-left:-20cm;; 
-  margin-right:-20cm; 
+  margin-left:-0.50cm;; 
+  margin-right:-0.50cm; 
   text-align:center;
   font-family:'Courier New'; font-size:80%;
   line-height:4em; 
