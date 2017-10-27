@@ -33,25 +33,25 @@ body {
 img.NBLLogo{
 position: relative; 
 top: 25px;
-left: 300px;
+left: 500px;
 }
 
 img.air{
 position: relative; 
-top: 25px;
-left: 300px;
+top: 200px;
+left: 95px;
 }
 
 img.Elogo{
 position: relative; 
 top: 25px;
-left: 300px;
+left: 500px;
 }
 
 img.USG{
 position: relative; 
-top: 25px;
-left: 300px;
+top: 200px;
+left: 95px;
 }
 
 
@@ -64,7 +64,7 @@ text-align: center;
 position: relative;
 width: 200px; 
 height: 275px;
-top: -150px;
+top: -135px;
 left: -425px;
 color: white; 
 background-color: black; 
@@ -81,7 +81,7 @@ text-align: center;
 position: relative;
 width: 200px; 
 height: 275px;
-top: -475px;
+top: -460px;
 left: 250px;
 color: white; 
 background-color: black; 
@@ -89,6 +89,13 @@ border: white 2px solid;
 font-family: Lucida, Monospace;" 
 list-style:outside none none;
 }
+
+
+
+
+
+
+
 
 
 
