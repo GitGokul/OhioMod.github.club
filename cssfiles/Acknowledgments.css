@@ -51,7 +51,7 @@ left: 300px;
 img.USG{
 position: relative; 
 top: 25px;
-left: 275px;
+left: 300px;
 }
 
 
@@ -64,7 +64,7 @@ text-align: center;
 position: relative;
 width: 200px; 
 height: 275px;
-top: -300px;
+top: -200px;
 left: -425px;
 color: white; 
 background-color: black; 
@@ -81,7 +81,7 @@ text-align: center;
 position: relative;
 width: 200px; 
 height: 275px;
-top: -625px;
+top: -425px;
 left: 250px;
 color: white; 
 background-color: black; 
