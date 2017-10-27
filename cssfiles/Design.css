@@ -1,4 +1,3 @@
-
 body {
   position: relative;
   padding-top: 50px;
@@ -9,7 +8,7 @@ body {
 }
 .starter-template {
   padding: 40px 15px;
-  text-align: justify;
+  text-align: center;
 }
 
 .footer{
@@ -19,8 +18,8 @@ body {
   padding-bottom:-1px;
   line-height:3em;  
   position:relative; 
-  margin-left:-.25cm;; 
-  margin-right:-.25cm; 
+  margin-left:-0.50cm;; 
+  margin-right:-0.50cm; 
   text-align:center;
   font-family:'Courier New';font-size:80%;
   line-height:4em; 
@@ -34,5 +33,4 @@ border: cyan 2px solid;
 text-align: left;
 padding: 10px 15px;
 font-family: Lucida, Monospace; font-size: 14px;
-text-align: justify;
 }

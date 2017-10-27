@@ -14,6 +14,7 @@ background-color: black;
 border: cyan 2px solid;
 padding: 10px 15px;
 font-family: Lucida, Monospace;
+text-align: justify;
 }
 
 .sup{

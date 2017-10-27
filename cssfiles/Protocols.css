@@ -53,12 +53,11 @@ a.link:hover{
   background-color:black; 
   margin-bottom:-1cm; 
   padding-bottom:-1px;
-  line-height:3em;  
+  line-height:3.5em;  
   position:relative; 
-  margin-left:-12.00cm;; 
-  margin-right:-12.00cm; 
+  margin-left:-8.00cm;; 
+  margin-right:-6.50cm; 
   text-align:center;
   font-family:'Courier New';font-size:80%;
-  line-height:4em; 
   word-spacing:5cm;
 }
